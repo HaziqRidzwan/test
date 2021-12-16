@@ -1,6 +1,7 @@
-package test;
-
 //Write a program which will print even and odd number from 0 to 10.
+
+
+package test;
 
 public class Test1 {
 
